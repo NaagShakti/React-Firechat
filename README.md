@@ -39,4 +39,4 @@
 #### Notes
 ###### 1. This Are Practice Projects. Not Sure It Will Work. I May Have Missed Few Steps in **Setup**
 ###### 2. Sidebar Buttons (Except Add Channel and Channel Buttons) and Search Bar Are Non-Functional and Require Backend Programming.
-###### 3. Please Share After Adding Functionality To The Other Non-Functional Components. Push-Request me Or Contact me: astitvasinha111@gmail.com
+###### 3. Please Contribute To Add Additional Functionality If Possible. Fork The Repo and Create Pull Request To Main Branch of This Repo. :)
