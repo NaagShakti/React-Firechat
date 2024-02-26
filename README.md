@@ -4,7 +4,7 @@
 
 #
 
-<img src="https://i.ibb.co/mSHNypb/02.png" alt="Dashboard" width=500>
+<img src="https://i.ibb.co/QNvK0cc/Untitled.png" alt="Dashboard" width=500>
 
 ## Dependencies
 ##### 1. Node Package Manage OR Yarn
