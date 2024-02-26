@@ -37,6 +37,4 @@
 ###### 9. `firebase deploy`
 #
 #### Notes
-###### 1. This Are Practice Projects. Not Sure It Will Work. I May Have Missed Few Steps in **Setup**
-###### 2. Sidebar Buttons (Except Add Channel and Channel Buttons) and Search Bar Are Non-Functional and Require Backend Programming.
-###### 3. Please Contribute To Add Additional Functionality If Possible. Fork The Repo and Create Pull Request To Main Branch of This Repo. :)
+###### This is a Practice Project with only Front End Supporting Basic Backend Functionality.
